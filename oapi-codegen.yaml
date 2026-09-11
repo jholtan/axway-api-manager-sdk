@@ -1,0 +1,6 @@
+package: openapi
+generate:
+  models: true
+  client: true
+  strict-server: false
+output: apimanager/openapi/client.gen.go
